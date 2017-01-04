@@ -4,11 +4,11 @@ Mirror effect as seen around the Web lately, i.e. on [Corentin Fardeau's](http:/
 
 [Article on Codrops](https://tympanus.net/codrops/?p=29492)
 
-[Demo](http://tympanus.net/Develppment/MirrorEffect/)
+[Demo](http://tympanus.net/Development/MirrorEffect/)
 
 ## License
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
